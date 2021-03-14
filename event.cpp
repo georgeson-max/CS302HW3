@@ -1,5 +1,3 @@
-//#include "event.h"
-
 Event::Event(){
     type = "";
     time = 0;

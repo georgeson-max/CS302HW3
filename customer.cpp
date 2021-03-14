@@ -1,5 +1,3 @@
-//#include "customer.h"
-
 Customer::Customer(){
     arrivalTime = 0;
     waitTime = 0;

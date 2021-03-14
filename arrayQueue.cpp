@@ -1,4 +1,3 @@
-//#include "arrayQueue.h"
 using namespace std;
 
 template<class T>
